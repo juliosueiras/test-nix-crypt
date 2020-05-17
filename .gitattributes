@@ -1,1 +1,1 @@
-**/*_secrets.nix
+**/*_secrets.nix filter=git-crypt diff=git-crypt
